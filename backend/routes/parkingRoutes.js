@@ -1,0 +1,11 @@
+import express from "express";
+import { getDashboardStats, getSlots, getVehicles, parkVehicle, removeVehicle, searchVehicle } from "../controllers/parkingController.js";
+import { protect, authorize } from "../middleware/authMiddleware.js";
+const router = express.Router();
+router.get("/stats", protect, getDashboardStats);
+router.get("/slots", protect, getSlots);
+router.get("/vehicles", protect, getVehicles);
+router.post("/park", protect, authorize("SUPER_ADMIN","ADMIN","STAFF"), parkVehicle);
+router.post("/remove", protect, authorize("SUPER_ADMIN","ADMIN","STAFF"), removeVehicle);
+router.get("/search/:vehicleNumber", protect, searchVehicle);
+export default router;

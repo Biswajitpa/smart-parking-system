@@ -1,0 +1,10 @@
+import express from "express";
+import multer from "multer";
+import { generateQrPass } from "../controllers/qrController.js";
+import { recognizePlate } from "../controllers/anprController.js";
+import { protect } from "../middleware/authMiddleware.js";
+const router = express.Router();
+const upload = multer({ dest:"uploads/" });
+router.post("/qr-pass", protect, generateQrPass);
+router.post("/anpr", protect, upload.single("image"), recognizePlate);
+export default router;
