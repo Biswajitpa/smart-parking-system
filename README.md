@@ -90,7 +90,7 @@ Used for **efficient parking slot allocation**.
 ## Real-Time Communication
 - Socket.IO
 
-## Payment Gateway
+## 💳 Payment Gateway
 - Razorpay
 
 ## Notifications
@@ -99,4 +99,6 @@ Used for **efficient parking slot allocation**.
 
 ---
 
-# 🏗 System Architecture
+## 🏗 System Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7954d33b-4231-4b5f-a794-8faa828f32c2" />
+
