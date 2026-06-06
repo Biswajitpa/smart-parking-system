@@ -1,7 +1,10 @@
-# 🚗 Smart Parking Management System
-##  (Data Structures + MERN Stack + Real-Time Parking)
+# 🚗 Smart Parking Management System  - (Data Structures + MERN Stack + Real-Time Parking)
 
-A **Smart Parking Management System** built using the **MERN Stack** that automatically assigns parking slots using **Data Structures (Min Heap / Priority Queue)** for efficient slot allocation.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C6FF&center=true&vCenter=true&width=900&lines=Smart+Parking+Management+System;MERN+Stack+%2B+Data+Structures;Real-Time+Parking+Tracking+System;Efficient+%7C+Scalable+%7C+Modern+Solution" />
+</p>
+
+A  Smart Parking Management System** built using the **MERN Stack** that automatically assigns parking slots using **Data Structures (Min Heap / Priority Queue)** for efficient slot allocation.
 
 The system supports **vehicle entry, slot booking, QR pass generation, payment integration, real-time slot updates, and an analytics dashboard**.
 
