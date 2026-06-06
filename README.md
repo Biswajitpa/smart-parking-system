@@ -1,46 +1,7 @@
 # 🚗 Smart Parking Management System  - (Data Structures + MERN Stack + Real-Time Parking)
 
 <p align="center">
-
-<svg width="900" height="140" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f7ff">
-        <animate attributeName="stop-color" values="#00f7ff;#ff00ff;#00ff85;#00f7ff" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0077ff">
-        <animate attributeName="stop-color" values="#0077ff;#00ff85;#ff00ff;#0077ff" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-
-  <rect width="100%" height="100%" fill="#0d1117"/>
-
-  <text x="50%" y="40%" text-anchor="middle"
-        font-size="28" font-weight="bold"
-        fill="url(#textgrad)"
-        font-family="Orbitron">
-
-    🚗 SMART PARKING MANAGEMENT SYSTEM
-
-    <animate attributeName="opacity"
-             values="0;1;1;0"
-             dur="3s"
-             repeatCount="indefinite"/>
-  </text>
-
-  <text x="50%" y="75%" text-anchor="middle"
-        font-size="16"
-        fill="#ffffff"
-        font-family="Verdana">
-
-    MERN Stack + Data Structures + Real-Time Parking System
-
-  </text>
-
-</svg>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=700&color=00FFB3&center=true&vCenter=true&width=800&lines=Real-Time+Parking+System;Smart+City+IoT+Solution;MERN+Stack+Project;Optimized+Data+Structures+Design" />
 </p>
 
 A  Smart Parking Management System** built using the **MERN Stack** that automatically assigns parking slots using **Data Structures (Min Heap / Priority Queue)** for efficient slot allocation.
