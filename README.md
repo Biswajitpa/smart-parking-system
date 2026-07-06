@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=220&section=header&text=Smart%20Parking%20System&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20%7C%20Automated%20%7C%20MERN%20Stack%20Powered&descAlignY=58&descSize=20"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%97+SMART+PARKING+MANAGEMENT+SYSTEM;%F0%9F%A7%A0+MERN+STACK+%2B+DATA+STRUCTURES;%E2%9A%A1+REAL-TIME+PARKING+TRACKING+SYSTEM;%F0%9F%94%A5+EFFICIENT+%7C+SCALABLE+%7C+MODERN+SOLUTION" />
 
 ### 🅿️ Intelligent. Automated. Real-Time. Parking, reimagined.
@@ -330,5 +332,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ### 🌟 If you found this project useful, don't forget to give it a **star**! 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%F0%9F%9A%97;Drive+Smart.+Park+Smarter.+%E2%9A%A1" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00F7FF&height=150&section=footer"/>
 
 </div>
